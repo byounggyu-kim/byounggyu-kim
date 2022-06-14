@@ -20,12 +20,12 @@
     </div>
     <br/><br/>
         
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byounggyu-kim&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byounggyu-kim&show_icons=true&theme=merko)
 
         
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byounggyu-kim)](https://github.com/byounggyu-kim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byounggyu-kim)](https://github.com/byounggyu-kim/github-readme-stats)
  
-        <img src="http://mazandi.herokuapp.com/api?handle=byounggyu-kim&theme=warm"/>
+<!--<img src="http://mazandi.herokuapp.com/api?handle=byounggyu-kim&theme=warm"/> -->
     
 </div>
 <!--
