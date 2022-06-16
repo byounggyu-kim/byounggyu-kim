@@ -1,5 +1,6 @@
 <div align="center">
-    <h1> 👨🏻‍💻TechSkills👨🏻‍💻 </h1>
+    <h1>About ME</h1>
+    <h1> 👨🏻‍💻TechSkills👨🏻‍💻 
     <br/>
     <div align="center">
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -10,7 +11,6 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
     </div>
-    <br />
     <div align="center">
         <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
         <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
@@ -20,7 +20,10 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
         <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
     </div>
+        </h1>
     <br/><br/>
+    
+    
         
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byounggyu-kim&show_icons=true&theme=merko)
 
