@@ -1,5 +1,8 @@
 <div align="center">
-    <h1>About ME</h1>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=About%20ME&fontSize=70&animation=twinkling)
+
+<div align="center">
     <h1> 👨🏻‍💻TechSkills👨🏻‍💻 
     <br/>
     <div align="center">
@@ -20,7 +23,7 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
         <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
     </div>
-        </h1>
+    </h1>
     <br/><br/>
     
     
