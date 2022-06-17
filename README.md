@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=About%20ME&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=About%20ME&fontSize=70&animation=twinkling)
 
 <div align="center">
     <h1> 👨🏻‍💻TechSkills👨🏻‍💻 
