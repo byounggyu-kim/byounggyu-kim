@@ -26,6 +26,15 @@
     </div>
     </h1>
     <br/><br/>
+    <a href="https://www.notion.so/dcf9a9500a9b40b6bd85f24eac4c5dfd" target="_blank">
+        <p>Resume</p>
+    </a>
+    <a href="https://www.notion.so/65693697c9994928bf2289b69d9f9a0f?v=25d6f75c5cd7418a9c9fc9810801af29" target="_blank">
+        <p>Portfolio</p>
+    </a>
+    <a href="https://velog.io/@bangi" target="_blank">
+        <p>Tech Blog</p>
+    </a>
     
     
         
